@@ -1,0 +1,2 @@
+# SQL-6
+SQL ÖDEV 6 SUM-MAX-MİN-AVG
